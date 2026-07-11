@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+uploads/*
+!uploads/.gitkeep
+.DS_Store
+*.log
+instance/
+.idea/
+.vscode/
